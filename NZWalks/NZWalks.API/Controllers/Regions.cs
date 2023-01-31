@@ -2,6 +2,6 @@
 {
     internal class Regions
     {
-        public string Code { get; internal set; }
+        public string Code { get;  set; }
     }
 }
